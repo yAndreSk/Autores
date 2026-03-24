@@ -1,7 +1,7 @@
-package com.exemplo.autores.service;
+package com.example.autores.service;
 
-import com.exemplo.autores.entity.Autor;
-import com.exemplo.autores.repository.AutorRepository;
+import com.example.autores.entity.Autor;
+import com.example.autores.repository.AutorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

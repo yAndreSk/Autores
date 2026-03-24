@@ -1,7 +1,7 @@
-package com.exemplo.autores.controller;
+package com.example.autores.controller;
 
-import com.exemplo.autores.entity.Autor;
-import com.exemplo.autores.service.AutorService;
+import com.example.autores.entity.Autor;
+import com.example.autores.service.AutorService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

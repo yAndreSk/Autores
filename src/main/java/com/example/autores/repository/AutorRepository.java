@@ -1,6 +1,6 @@
-package com.exemplo.autores.repository;
+package com.example.autores.repository;
 
-import com.exemplo.autores.entity.Autor;
+import com.example.autores.entity.Autor;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface AutorRepository extends JpaRepository<Autor, Long> {

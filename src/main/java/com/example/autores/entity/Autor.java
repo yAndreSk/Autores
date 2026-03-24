@@ -1,6 +1,7 @@
-package com.exemplo.autores.entity;
+package com.example.autores.entity;
 
 import jakarta.persistence.*;
+
 import java.time.LocalDate;
 
 @Entity(name = "Autor")
